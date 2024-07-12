@@ -25,3 +25,7 @@ Ctrl + G - restart the game
 Ctrl + F - fullscreen on/off
 
 Esc - exit the game
+
+---
+
+![image](https://github.com/user-attachments/assets/5ad72442-ca8a-4bf7-8d72-c82566ed1d91)
