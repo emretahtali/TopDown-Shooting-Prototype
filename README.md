@@ -7,6 +7,10 @@ since i'd been plannig this to be a rouge-like game, there is a map on the top-l
 
 there is only one room in this protototype. in it, there is one idle enemy, and one patrolling enemy.
 
+the player can sneak the enemies from behind.
+
+if an enemy sees the player, they will chase the player to the last position they've seen him, wait for a bit, and return to their duty.
+
 ---
 controls:
 
